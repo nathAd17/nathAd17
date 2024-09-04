@@ -1,5 +1,22 @@
 # 💫 About Me:
-## About Me<br><br>Hi there! 👋 I'm **Nathan**, a passionate student and aspiring web developer currently studying at STIKOM Uyelindo Kupang. I started my journey in IT in 2022, and I've been exploring the exciting world of web development ever since.<br><br>### Tech Stack<br>I enjoy working with various technologies and tools to build robust and scalable web applications. My favorite tech stack includes:<br>- **Frontend**: Tailwind CSS, Vue.js, JavaScript (ES6+)<br>- **Backend**: PHP (Laravel), MySQL<br>- **Tools**: Figma for UI/UX design, Git & GitHub for version control<br><br>### Projects<br>I've worked on several projects, from full-stack web development to designing user interfaces in Figma. You can check out some of my projects [here](https://github.com/nathAd17).<br><br>### Interests<br>- 💻 Web Development<br>- 🌐 Internet of Things (IoT)<br>- 🖌️ UI/UX Design<br>- 📚 Learning new technologies<br><br>I'm always looking to collaborate on exciting projects and open to learning new things. Feel free to reach out to me if you want to discuss anything related to tech or even just to say hi!<br><br>### Let's Connect<br>- [Portfolio](https://vnath-portfolio.vercel.app/)<br>- [GitHub](https://github.com/nathAd17)<br>
+About Me<br><br>Hi there! 👋 I'm **Nathan**, a passionate student and aspiring web developer currently studying at STIKOM Uyelindo Kupang. I started my journey in IT in 2022, and I've been exploring the exciting world of web development ever since.<br><br>
+### Tech Stack<br>
+I enjoy working with various technologies and tools to build robust and scalable web applications. My favorite tech stack includes:<br>
+- **Frontend**: Tailwind CSS, Vue.js, JavaScript (ES6+)<br>
+- **Backend**: PHP (Laravel), MySQL<br>
+- **Tools**: Figma for UI/UX design, Git & GitHub for version control<br><br>
+### Projects<br>
+I've worked on several projects, from full-stack web development to designing user interfaces in Figma. You can check out some of my projects [here](https://github.com/nathAd17).<br><br>
+### Interests<br>
+- 💻 Web Development<br>
+- 🌐 Internet of Things (IoT)<br>
+- 🖌️ UI/UX Design<br>
+- 📚 Learning new technologies<br><br>
+
+I'm always looking to collaborate on exciting projects and open to learning new things. Feel free to reach out to me if you want to discuss anything related to tech or even just to say hi!<br><br>
+### Let's Connect<br>
+- [Portfolio](https://vnath-portfolio.vercel.app/)<br>
+- [GitHub](https://github.com/nathAd17)<br>
 
 
 ## 🌐 Socials:
