@@ -6,7 +6,7 @@ I enjoy working with various technologies and tools to build robust and scalable
 - **Backend**: PHP (Laravel), MySQL<br>
 - **Tools**: Figma for UI/UX design, Git & GitHub for version control<br><br>
 ### Projects<br>
-I've worked on several projects, from full-stack web development to designing user interfaces in Figma. You can check out some of my projects [here](https://github.com/nathAd17).<br><br>
+I've worked on several projects, from full-stack web development to designing user interfaces in Figma. You can check out some of my projects [here]([https://vnath-portfolio.vercel.app/]).<br><br>
 ### Interests<br>
 - 💻 Web Development<br>
 - 🌐 Internet of Things (IoT)<br>
